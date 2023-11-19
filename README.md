@@ -18,6 +18,7 @@
 <img src="https://i.imgur.com/R8cEuKd.png" width="130px">
 <img src="https://i.imgur.com/gLlnVlz.png" width="130px">
 <img src="https://i.imgur.com/KZFmH2x.png" width="130px">
+<img src="https://i.imgur.com/ZL6213P.png" width="130px">
 </p>
 <p>🦀 Le Rust j'apprends encore !</p>
 <h1>📞Me contacter</h1>

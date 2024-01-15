@@ -1,25 +1,45 @@
-<h1>📃A propos de moi</h1>
-<p>Je suis Spel et apparemment un modo Discord. J'aime bien coder et faire de la 3D et des effets visuels. J'ai pas grand chose d'autre à dire ici mais t'es flex a lire jusqu'au bout. </p>
-<h1>🔧 Mes projets</h1>
-<p>🧅 ProxOnion, il vous permet de setup et d'enlever facilement le proxy Tor pour que votre connexion internet passe par Tor, et d'autres petites fonctionnalités.<br>
-<p>👾 UptoDL, il vous permet de télécharger des contenus des plateformes Uptbox/Uptostream sans attente. Il s'occupe de télécharger les deux sources multimédias pour ensuite les assembler.<br>
-<p>📺 TF1 Downloader, il vous permet de télécharger les vidéos replays présentent sur le site web de TF1. Il s'occupe de télécharger les deux sources multimédias pour ensuite les assembler.<br>
-<p>📁 Automatic-File-Uploader, il vous permet d'uploader facilement vos fichiers sur différents plateformes d'hébergements.<br>
-<p>👌 Le_Bot, mon bot Discord (le code est vraiment pas ouf et j'ai la flemme de tout refaire, c'est plus un projet qui m'intérresse) ! Je vous laisse regarder le répository si vous le désirez !<br>Le_Bot est donc un bot Discord avec son code opensource disponnible sur mon profil GitHub.<br><br>
-🔋J'ai aussi d'autres projets moindres.</p>
-<h1>💻Languages de programmation et outils</h1>
-<p>Je vais faire comme les pros de GitHub à vous montrer les différents langages et outils avec lesquels je travail (ça fait très pro).</p>
-<p float="left">
-<img src="https://i.imgur.com/pKJWJSE.png" width="130px">
-<img src="https://i.imgur.com/ILZGdo8.png" width="130px">
-<img src="https://i.imgur.com/bDCCLs5.png" width="130px">
-<img src="https://i.imgur.com/FN7i65O.png" width="130px">
-<img src="https://i.imgur.com/VJwugWa.png" width="130px">
-<img src="https://i.imgur.com/R8cEuKd.png" width="130px">
-<img src="https://i.imgur.com/gLlnVlz.png" width="130px">
-<img src="https://i.imgur.com/KZFmH2x.png" width="130px">
-<img src="https://i.imgur.com/ZL6213P.png" width="130px">
-</p>
-<p>🦀 Le Rust j'apprends encore !</p>
-<h1>📞Me contacter</h1>
-<p>🤖 Vous pouvez me contacter sur Discord : spel987.<br>✉️ Ou vous pouvez me conctater via mail avec : spel@usurp.in.</p>
+<img src="https://i.imgur.com/DL3Ykmu.png">
+
+# About me
+
+I like the web in general, both frontend and backend. I code a bit of everything without any particular sector. I also like video editing, VFX and 3D.
+
+# My skills
+
+| Developement language & frameworks | Front-end | Operating systems | Other cool stuff |
+| ---- | ---- | ---- | ---- |
+| <a href=https://www.python.org/ title="Python"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:python.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://nodejs.org/en title="NodeJS"><img align="center" width="26px" src="https://api.iconify.design/devicon-plain:nodejs-wordmark.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://www.rust-lang.org title="Rust"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:rust.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://tauri.app/ title="Tauri"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:tauri.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://www.electronjs.org/ title="ElectonJS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:electron.svg?color=%23b068f8&height=26" target="_blank"/></a> | <a title="Javascript" href=https://developer.mozilla.org/en/docs/Web/JavaScript><img align="center" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?color=%23b068f8&height=26" target="_blank"/></a> <a title="HTML5" href=https://developer.mozilla.org/en/docs/Web/HTML><img align="center" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=%23b068f8&height=26" target="_blank"/></a> <a title="CSS3" href=https://developer.mozilla.org/en/docs/Web/CSS><img align="center" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23b068f8&height=26" target="_blank"/></a> <a title="TailwindCSS" href=https://tailwindcss.com/><img align="center" width="26px" src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=%23b068f8&height=26" target="_blank"/></a> | <a title="Windows" href=https://microsoft.com/windows><img align="center" width="26px" src="https://api.iconify.design/simple-icons:windows.svg?color=%23b068f8&height=26" target="_blank"/></a> <a title="Android" href=https://www.android.com/><img align="center" width="26px" src="https://api.iconify.design/simple-icons:android.svg?color=%23b068f8&height=26" target="_blank"/></a> <a title="Linux" href=https://www.kernel.org/><img align="center" width="26px" src="https://api.iconify.design/simple-icons:linux.svg?color=%23b068f8&height=26" target="_blank"/></a> | <a href=https://www.adobe.com/products/aftereffects.html title="Adobe After Effects"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobeaftereffects.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://www.adobe.com/products/photoshop.html title="Adobe Photoshop"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobephotoshop.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://www.adobe.com/products/illustrator.html title="Adobe Illustrator"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobeillustrator.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://www.adobe.com/products/premiere.html title="Adobe Premiere Pro"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobepremierepro.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://www.blender.org/ title="Blender"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:blender.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://www.figma.com/ title="Figma"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:figma.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://www.autodesk.fr/products/3ds-max/overview title="3DS Max"><img align="center" width="26px" src="https://api.iconify.design/devicon-plain:3dsmax.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://www.maxon.net/en/cinema-4d title="C4D"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:cinema4d.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://www.chaos.com/vray/3ds-max title="V-Ray"><img align="center" width="26px" src="https://api.iconify.design/file-icons:v-ray.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://corona-renderer.com/ title="Corona Renderer"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:coronarenderer.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://affinity.serif.com/en/designer/ title="Affiny Designer"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:affinitydesigner.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://en.wikipedia.org/wiki/Bourne-Again_shell title="Bash"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:gnubash.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://discord.com/developers/docs/intro title="Discord"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:discord.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://core.telegram.org/ title="Telegram"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:telegram.svg?color=%23b068f8&height=26" target="_blank"/></a> <a href=https://code.visualstudio.com/ title="Visual Studio Code"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23b068f8&height=26" target="_blank"/></a>
+
+
+# Boring stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spel987&show_icons=true&count_private=true&hide_border=true&icon_color=b068f8&bg_color=251e2f&title_color=b068f8&text_color=fff&border_radius=30)](https://github.com/spel987)
+
+# One of my projects to discover
+
+[![Automatic-File-Uploader](https://github-readme-stats.vercel.app/api/pin/?username=spel987&repo=Automatic-File-Uploader&show_icons=true&count_private=true&hide_border=true&icon_color=b068f8&bg_color=251e2f&title_color=b068f8&text_color=fff&border_radius=20)](https://github.com/spel987/Automatic-File-Uploader)
+
+This project lets you upload your files remotely to different hosting sites.
+
+Here are the features you will find in this project:
+
+- Over 40 hosting providers supported.
+- Unified remote uploading for all sites.
+- Upload your file to several hosts at the same time with a dedicated multi-upload mode.
+- Use hosting profiles adapted to your needs.
+- Filter hosts by maximum file size and download link expiration date.
+- Access a useful description for each host before uploading the file.
+- Access a history of links created.
+- Easily delete files you've uploaded.
+- Enjoy a check every 12 hours to ensure the availability of hosts.
+- Free, open-source, well-documented, and regularly updated.
+
+If you'd like to find out more, visit the [repository](https://github.com/spel987/Automatic-File-Uploader).
+
+# To contact me
+
+If you'd like to chat, give me feedback or have any questions, you can contact me on:
+
+- Discord: `spel987`
+- Telegram: [spel987](https://t.me/spel987)
+- Mail: `spel987@pm.me`

@@ -40,7 +40,4 @@ If you'd like to find out more, visit the [repository](https://github.com/spel98
 
 If you'd like to chat, give me feedback or have any questions, you can contact me on:
 
-- Discord: `spel987`
-- Telegram: [spel987](https://t.me/spel987)
-- Element: [@spel987:matrix.to](https://matrix.to/#/@spel987:matrix.org)
 - Mail: `spel987@pm.me`

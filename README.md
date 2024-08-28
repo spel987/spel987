@@ -17,25 +17,23 @@ I like the web in general, both frontend and backend. I code a bit of everything
 
 # One of my projects to discover
 
-[![Automatic-File-Uploader](https://github-readme-stats.vercel.app/api/pin/?username=spel987&repo=Automatic-File-Uploader&show_icons=true&count_private=true&hide_border=true&icon_color=b068f8&bg_color=251e2f&title_color=b068f8&text_color=fff&border_radius=20)](https://github.com/spel987/PolyUploader)
+[![PolyUploader](https://github-readme-stats.vercel.app/api/pin/?username=spel987&repo=PolyUploader&show_icons=true&count_private=true&hide_border=true&icon_color=b068f8&bg_color=251e2f&title_color=b068f8&text_color=fff&border_radius=20)](https://github.com/spel987/PolyUploader)
 
-This project lets you upload your files remotely to different hosting sites.
+It allows you to upload your files simply and remotely to 76 different hosts. The software is only supported on Windows.
 
-Here are the features you will find in this project:
+If you're on Linux or MacOS, or just don't want to bother, a demonstration is available on the web: https://p-u.vercel.app/demonstration.
 
-- Over 50 hosting providers supported.
-- Unified remote uploading for all sites.
-- Upload your file to several hosts at the same time with a dedicated multi-upload mode.
-- Use hosting profiles adapted to your needs.
-- Filter hosts by maximum file size and download link expiration date.
-- Access a useful description for each host before uploading the file.
-- Access a history of links created.
-- Easily delete files you've uploaded.
-- Enjoy a check every 12 hours to ensure the availability of hosts.
-- Single shareable link grouping links created to facilitate community sharing.
-- Free, open-source, well-documented, and regularly updated.
+Quick description by key points:
+- Single or multiple upload from your local storage or a URL to 76 hosts.
+- Access a history of all your upload file's information, and a delete button.
+- Setup your API keys for certain hosts.
+- Create your own upload profiles to save time on repeated uploads.
+- Create a unique sharing link to group together your upload links and simplify sharing.
+- No account required, free and open-source make it a serious alternative to Mirrored.to and Mirrorace.org
+- Created with speed and security in mind, with a Rust backend.
 
-If you'd like to find out more, visit the [repository](https://github.com/spel987/PolyUploader).
+This is a brief description, but if you'd like to learn more about the project, visit the [GitHub repository](https://github.com/spel987/PolyUploader) or the [documentation site](https://polyuploader.vercel.app).
+I've been working on this software for over a year and it's now stable and efficient.
 
 # To contact me
 

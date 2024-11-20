@@ -13,11 +13,15 @@ I like the web in general, both frontend and backend. I code a bit of everything
 
 # Boring stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spel987&show_icons=true&count_private=true&hide_border=true&icon_color=b068f8&bg_color=251e2f&title_color=b068f8&text_color=fff&border_radius=30)](https://github.com/spel987)
+<div align="center">
+
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spel987&show_icons=true&count_private=true&hide_border=true&icon_color=b068f8&bg_color=251e2f&title_color=b068f8&text_color=fff&border_radius=30)](https://github.com/spel987) | [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=spel987&show_icons=true&count_private=true&hide_border=true&icon_color=b068f8&bg_color=251e2f&title_color=b068f8&text_color=fff&border_radius=30)](https://github.com/spel987) |
+|---|---|
+
+</div>
+
 
 # One of my projects to discover
-
-[![PolyUploader](https://github-readme-stats.vercel.app/api/pin/?username=spel987&repo=PolyUploader&show_icons=true&count_private=true&hide_border=true&icon_color=b068f8&bg_color=251e2f&title_color=b068f8&text_color=fff&border_radius=20)](https://github.com/spel987/PolyUploader)
 
 It allows you to upload your files simply and remotely to 76 different hosts. The software is only supported on Windows.
 
@@ -34,6 +38,12 @@ Quick description by key points:
 
 This is a brief description, but if you'd like to learn more about the project, visit the [GitHub repository](https://github.com/spel987/PolyUploader) or the [documentation site](https://polyuploader.vercel.app).
 I've been working on this software for over a year and it's now stable and efficient.
+
+<div align="center">
+
+[![PolyUploader](https://github-readme-stats.vercel.app/api/pin/?username=spel987&repo=PolyUploader&show_icons=true&count_private=true&hide_border=true&icon_color=b068f8&bg_color=251e2f&title_color=b068f8&text_color=fff&border_radius=20)](https://github.com/spel987/PolyUploader)
+
+</div>
 
 # To contact me
 

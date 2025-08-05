@@ -101,7 +101,7 @@ I'm a curious and polyvalent French student with a strong interest in web develo
 
 ### 🚀 Quick overview of what the project can do:
 
-- Upload a file from local storage or via URL to 76 hosts at once
+- Upload a file from local storage or via URL to 120 hosts at once
 - View a detailed history of your uploads with expiration status and delete buttons
 - Link your own API keys for compatible hosts
 - Create and manage upload profiles to automate frequent tasks
@@ -110,7 +110,6 @@ I'm a curious and polyvalent French student with a strong interest in web develo
 - Built with a focus on speed and security using Rust backend
 
 This is a brief description, but if you'd like to learn more about the project, visit the [GitHub repository](https://github.com/spel987/PolyUploader) or the [documentation site](https://polyuploader.vercel.app).
-> By the way, a big update is coming soon (in a week or two, I think), so stay tuned 🤓.
 
 # Contact
 

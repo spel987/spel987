@@ -101,7 +101,7 @@ I'm a curious and polyvalent French student with a strong interest in web develo
 
 ### 🚀 Quick overview of what the project can do:
 
-- Upload a file from local storage or via URL to 120 hosts at once
+- Upload a file from local storage or via URL to 130 hosts at once
 - View a detailed history of your uploads with expiration status and delete buttons
 - Link your own API keys for compatible hosts
 - Create and manage upload profiles to automate frequent tasks

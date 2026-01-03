@@ -78,12 +78,12 @@ I'm a curious and polyvalent French student with a strong interest in web develo
   <tr>
     <td align="center" style="vertical-align: top;">
       <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=spel987&show_icons=true&count_private=true&hide_border=true&icon_color=e75820&bg_color=0D0D0D&title_color=e75820&text_color=fff&border_radius=30" title="Python"/>
+        <img src="https://github-readme-stats-ten-hazel-79.vercel.app/api?username=spel987&show_icons=true&count_private=true&hide_border=true&icon_color=e75820&bg_color=0D0D0D&title_color=e75820&text_color=fff&border_radius=30" title="Python"/>
       </div>
     </td>
     <td align="center" style="vertical-align: top;">
       <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spel987&show_icons=true&count_private=true&hide_border=true&icon_color=e75820&bg_color=0D0D0D&title_color=e75820&text_color=fff&border_radius=30" title="Python"/>
+        <img src="https://github-readme-stats-ten-hazel-79.vercel.app/api/top-langs?username=spel987&show_icons=true&count_private=true&hide_border=true&icon_color=e75820&bg_color=0D0D0D&title_color=e75820&text_color=fff&border_radius=30" title="Python"/>
       </div>
     </td>
   </tr>
@@ -95,7 +95,7 @@ I'm a curious and polyvalent French student with a strong interest in web develo
 
 <div>
 
-[![PolyUploader](https://github-readme-stats.vercel.app/api/pin/?username=spel987&repo=PolyUploader&show_icons=true&count_private=true&hide_border=true&icon_color=e75820&bg_color=0D0D0D&title_color=e75820&text_color=fff&border_radius=20)](https://github.com/spel987/PolyUploader)
+[![PolyUploader](https://github-readme-stats-ten-hazel-79.vercel.app/api/pin/?username=spel987&repo=PolyUploader&show_icons=true&count_private=true&hide_border=true&icon_color=e75820&bg_color=0D0D0D&title_color=e75820&text_color=fff&border_radius=20)](https://github.com/spel987/PolyUploader)
 
 </div>
 

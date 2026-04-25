@@ -2,7 +2,7 @@
 
 # About me
 
-I'm a curious and polyvalent French student with a strong interest in web development, both frontend and backend. I enjoy exploring different aspects of programming without a specific domain. Beyond coding, I'm passionate about understanding how things work. I'm also very interested in video editing, visual effects and 3D design.
+I am a versatile French student with a strong interest in software engineering and a focus on full-stack web development. I enjoy exploring different aspects of programming without a specific domain. Beyond coding, I'm passionate about understanding how things work. I'm also very interested in video editing, visual effects and 3D design.
 
 # My skills
 
@@ -24,6 +24,7 @@ I'm a curious and polyvalent French student with a strong interest in web develo
         <a href="https://tauri.app/" target="_blank"><img src="https://api.iconify.design/simple-icons:tauri.svg?color=%23e75820&height=25" title="Tauri"/></a>
         <a href="https://expressjs.com/" target="_blank"><img src="https://api.iconify.design/simple-icons:express.svg?color=%23e75820&height=25" title="Express"/></a>
         <a href="https://www.electronjs.org/" target="_blank"><img src="https://api.iconify.design/simple-icons:electron.svg?color=%23e75820&height=25" title="Electron"/></a>
+        <a href="https://www.java.com/en/" target="_blank"><img src="https://api.iconify.design/ri:java-fill.svg?color=%23e75820&height=25" title="Java"/></a>
       </div>
     </td>
     <td align="center" style="vertical-align: top;">
@@ -43,6 +44,18 @@ I'm a curious and polyvalent French student with a strong interest in web develo
     </td>
     <td align="center" style="vertical-align: top;">
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
+        <a href="https://git-scm.com/" target="_blank"><img src="https://api.iconify.design/simple-icons:git.svg?color=%23e75820&height=25" title="Git"/></a>
+        <a href="https://www.postgresql.org/" target="_blank"><img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23e75820&height=25" title="PostgreSQL"/></a>
+        <a href="https://www.sqlite.org/" target="_blank"><img src="https://api.iconify.design/simple-icons:sqlite.svg?color=%23e75820&height=25" title="SQLite"/></a>
+        <a href="https://supabase.com/" target="_blank"><img src="https://api.iconify.design/simple-icons:supabase.svg?color=%23e75820&height=25" title="Supabase"/></a>
+        <a href="https://code.visualstudio.com/" target="_blank"><img src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23e75820&height=25" title="VSCode"/></a>
+        <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://api.iconify.design/simple-icons:intellijidea.svg?color=%23e75820&height=25" title="IntelliJ IDEA"/></a>
+        <a href="https://github.com/" target="_blank"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23e75820&height=25" title="GitHub"/></a>
+        <a><img src="https://api.iconify.design/simple-icons:markdown.svg?color=%23e75820&height=25" title="Markdown"/></a>
+        <a href="https://docusaurus.io/" target="_blank"><img src="https://api.iconify.design/simple-icons:docusaurus.svg?color=%23e75820&height=25" title="Docusaurus"/></a>
+        <a href="https://vercel.com/" target="_blank"><img src="https://api.iconify.design/simple-icons:vercel.svg?color=%23e75820&height=25" title="Vercel"/></a>
+        <a href="https://obsidian.md/" target="_blank"><img src="https://api.iconify.design/simple-icons:obsidian.svg?color=%23e75820&height=25" title="Obsidian"/></a>
+        <a href="https://postman.com/" target="_blank"><img src="https://api.iconify.design/simple-icons:postman.svg?color=%23e75820&height=25" title="Postman"/></a>
         <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://api.iconify.design/simple-icons:adobeaftereffects.svg?color=%23e75820&height=25" title="Adobe After Effects"/></a>
         <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://api.iconify.design/simple-icons:adobephotoshop.svg?color=%23e75820&height=25" title="Adobe Photoshop"/></a>
         <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://api.iconify.design/simple-icons:adobeillustrator.svg?color=%23e75820&height=25" title="Adobe Illustrator"/></a>
@@ -56,16 +69,6 @@ I'm a curious and polyvalent French student with a strong interest in web develo
         <a href="https://www.figma.com/" target="_blank"><img src="https://api.iconify.design/simple-icons:figma.svg?color=%23e75820&height=25" title="Figma"/></a>
         <a href="https://discord.com/developers/docs/intro" target="_blank"><img src="https://api.iconify.design/simple-icons:discord.svg?color=%23e75820&height=25" title="Discord Bot Dev"/></a>
         <a href="https://core.telegram.org/" target="_blank"><img src="https://api.iconify.design/simple-icons:telegram.svg?color=%23e75820&height=25" title="Telegram"/></a>
-        <a href="https://supabase.com/" target="_blank"><img src="https://api.iconify.design/simple-icons:supabase.svg?color=%23e75820&height=25" title="Supabase"/></a>
-        <a href="https://www.postgresql.org/" target="_blank"><img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23e75820&height=25" title="PostgreSQL"/></a>
-        <a href="https://www.sqlite.org/" target="_blank"><img src="https://api.iconify.design/simple-icons:sqlite.svg?color=%23e75820&height=25" title="SQLite"/></a>
-        <a href="https://code.visualstudio.com/" target="_blank"><img src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23e75820&height=25" title="VSCode"/></a>
-        <a href="https://github.com/" target="_blank"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23e75820&height=25" title="GitHub"/></a>
-        <a><img src="https://api.iconify.design/simple-icons:markdown.svg?color=%23e75820&height=25" title="Markdown"/></a>
-        <a href="https://docusaurus.io/" target="_blank"><img src="https://api.iconify.design/simple-icons:docusaurus.svg?color=%23e75820&height=25" title="Docusaurus"/></a>
-        <a href="https://vercel.com/" target="_blank"><img src="https://api.iconify.design/simple-icons:vercel.svg?color=%23e75820&height=25" title="Vercel"/></a>
-        <a href="https://obsidian.md/" target="_blank"><img src="https://api.iconify.design/simple-icons:obsidian.svg?color=%23e75820&height=25" title="Obsidian"/></a>
-        <a href="https://postman.com/" target="_blank"><img src="https://api.iconify.design/simple-icons:postman.svg?color=%23e75820&height=25" title="Postman"/></a>
       </div>
     </td>
   </tr>
